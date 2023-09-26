@@ -1,5 +1,4 @@
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Aditya Gopal Krishnaut</h1>
+ <h1 align="center">Hi 👋, I'm Aditya Gopal Krishnaut</h1>
 <h3 align="center">Proficient in C++, I've honed my problem-solving skills through countless Data Structures and Algorithms challenges. Web development enthusiast: HTML, CSS, Tailwind, JavaScript, and React are all part of my toolkit. Currently, I'm immersed in a variety of projects, each an opportunity to apply my skills and innovate.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AKrisadi&label=Profile%20views&color=0e75b6&style=flat" alt="AKrisadi" /> </p>
 
